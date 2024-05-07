@@ -7,6 +7,8 @@ import BT5 from "./components/BT5";
 import BT7 from "./components/BT7";
 import BT6 from "./components/BT6";
 import BT8 from "./components/BT8";
+import Bt9 from "./components/BT9";
+import BT10 from "./components/BT10";
 
 export default function App() {
   return (
@@ -19,6 +21,8 @@ export default function App() {
       <BT6></BT6>
       <BT7></BT7>
       <BT8></BT8>
+      <Bt9></Bt9>
+      <BT10></BT10>
     </>
   );
 }
